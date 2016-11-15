@@ -1,0 +1,104 @@
+article
+{
+    margin: 20px 430px 20px 20px;
+    padding:20px;
+    background-color: white;
+
+}
+body
+{
+    font-family:"Microsoft YaHei";
+    background-color: #cccccc;
+    margin: 0;
+}
+.nav-header
+{
+    padding: 0;
+    margin: 0;
+    background-color:#333;
+    height: 80px;
+}
+nav li
+{
+    display: inline;
+}
+.nav-list
+{
+    width: 400px;
+    height: 40px;
+    float: right;
+}
+nav a
+{
+    text-decoration: none;
+    color: white;
+}
+article h2{color: #999999}
+.author{color: #999999}
+aside
+{
+    margin: 20px;
+    padding:20px;
+    background-color: white;
+    float: right;
+    width: 350px;
+}
+table,th,td{border:1px solid black;}
+table
+{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th
+{
+    color: white;
+    background-color: #333333;
+}
+td{text-align: center;}
+.submit
+{
+    padding: 10px 0 10px 0;
+    background-color: blue;
+    color: white;
+    width: 100%;
+    border:1px solid blue;
+}
+footer
+{
+    color:white;
+    background-color: black;
+    padding: 20px 0 30px 0;
+    text-align: center;
+}
+label.left
+{
+    text-align: right;
+    vertical-align: top;
+    width: 40%;
+    display: inline-block;
+}
+input.right
+{
+    margin-left: 5px;
+    padding: 3px;
+}
+div.text_holder
+{
+    margin-left:41%;
+    color: #cccccc;
+}
+div.input_password{margin-top:5px;}
+div.city
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+aside header{border-left: 3px solid #cccccc;}
+aside h2{margin-left: 10px;}
+/*
+p.left
+{
+    position: relative;
+    left: 200px;
+}*/
